@@ -17,7 +17,7 @@ A reusable UVM-based verification environment is developed to verify the memory 
 
 
 
-\## Project Objective
+## Project Objective
 
 
 

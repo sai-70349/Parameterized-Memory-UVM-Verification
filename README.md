@@ -1,8 +1,7 @@
-# \## Parameterized Memory RTL Design and UVM-Based Functional Verification using SystemVerilog
+## Parameterized Memory RTL Design and UVM-Based Functional Verification using SystemVerilog
 
-# 
 
-\## Project Overview
+## Project Overview
 
 
 
